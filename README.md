@@ -2,8 +2,7 @@
 - 😎 I am a software engineer, passionate life learner, and completely self taught
 - 👀 I’m interested in using AI for education
 - 🌱 Currently learning:
-  -  [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-  -  [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+  -  [Deep Learning with PyTorch for Medical Image Analysis]([https://www.coursera.org/specializations/machine-learning-introduction](https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/))
 
 <!---
 nqcm/nqcm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
